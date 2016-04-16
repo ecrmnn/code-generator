@@ -77,7 +77,7 @@ func main() {
 		file.WriteString(key + "\n")
 	}
 
-	fmt.Printf("\nGenerated %d codes \n", len(codes))
+	fmt.Println("\nDone. Codes stored in codes.txt")
 
 	elapsed := time.Since(start)
 	log.Printf("Execution time %s", elapsed)
