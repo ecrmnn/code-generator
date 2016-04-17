@@ -1,5 +1,5 @@
 # code-generator
-> Generate hundred of thousands of codes in a few seconds
+> Generate hundreds of thousands of codes in a few seconds
 
 [![Build Status](https://travis-ci.org/ecrmnn/code-generator.svg?branch=master)](https://travis-ci.org/ecrmnn/code-generator)
 
