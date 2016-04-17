@@ -20,7 +20,7 @@ nano codes.txt
 # All codes stored in codes.txt
 ```
 
-### Related
+### Sort of related
 - [passlawl](https://github.com/ecrmnn/passlawl) - CLI for generating passwords
 
 ### License
